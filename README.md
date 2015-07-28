@@ -1,5 +1,7 @@
 # blacklist-rkn-tool
 
+[![Join the chat at https://gitter.im/Prototype-X/blacklist-rkn-tool](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Prototype-X/blacklist-rkn-tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Code Health](https://landscape.io/github/Prototype-X/blacklist-rkn-tool/master/landscape.svg?style=flat)](https://landscape.io/github/Prototype-X/blacklist-rkn-tool/master)
 
 Python3 скрипт для работы с реестром запрещенных сайтов http://vigruzki.rkn.gov.ru/
